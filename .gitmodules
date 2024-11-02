@@ -1,0 +1,9 @@
+[submodule "01-TaskTracker"]
+	path = 01-TaskTracker
+	url = git@github.com:RomRakharb/TaskTracker.git
+[submodule "02-GitHubUserActivity"]
+	path = 02-GitHubUserActivity
+	url = git@github.com:RomRakharb/GitHubUserActivity.git
+[submodule "03-ExpenseTracker"]
+	path = 03-ExpenseTracker
+	url = git@github.com:RomRakharb/ExpenseTracker.git
